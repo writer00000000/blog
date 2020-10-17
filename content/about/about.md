@@ -4,7 +4,6 @@ date: 2020-10-17T19:40:20+09:00
 categories: [소개]
 tags: [소개]
 cover: "/images/infra/hugo.386k.png"
-draft: true
 ---
 
 1.서후, 또는 작가, 또는 홀롤의 블로그.
