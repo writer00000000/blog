@@ -1,10 +1,11 @@
----
++++
 title: "About"
 date: 2020-10-17T15:29:00+09:00
-categories: [wasans]
-tags: []
+description = "호롤롤로 블로그"
+aliases = ["about-us","about-hugo","contact"]
 cover: "/images/infra/hugo.386k.png"
----
+author = "작가"
++++
 
 서후, 또는 홀롤, 또는 작가의 블로그.
 
@@ -21,10 +22,3 @@ cover: "/images/infra/hugo.386k.png"
 끝
 
 줄없는 공백 주거라ㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏㅏ
-
-
-
-
-
-
-
