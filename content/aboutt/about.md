@@ -1,8 +1,8 @@
 ---
 title: "About"
 date: 2020-10-17T15:29:00+09:00
-categories: []
-tags: [wasans]
+categories: [wasans]
+tags: []
 cover: "/images/infra/hugo.386k.png"
 ---
 
