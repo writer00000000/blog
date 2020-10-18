@@ -91,6 +91,6 @@ SIDE KICK CROSS JUMP!
 
 곽철용과 더블의 저주 : https://www.youtube.com/watch?v=uSLJq6jZFro
 
-이광수와 모기의 저주 : 이건 인기가 너무 높아 따로 글 작성.
+이광수와 모기의 저주 : https://writer00000000.github.io/post/mogi/
 
 침착맨과 갈비의 저주 : https://www.youtube.com/watch?v=C9q0PlJpx7Y

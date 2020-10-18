@@ -6,6 +6,7 @@ tags: []
 cover: "/images/infra/hugo.386k.png"
 ---
 <종로스타>
+
 합성물 유튜버, 여유만만이 '아기공룡 둘리 - 얼음별 대모험'의 고길동과 피에스타를 소재로 만든 매드무비이다.
 
 https://www.youtube.com/watch?v=20xni0vPXxM
