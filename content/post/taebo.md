@@ -80,3 +80,17 @@ SIDE KICK CROSS JUMP!
 
 
 끝
+
+원곡 : 게임 '샨테와 해적의 저주' OST, Run Run Rottytops! https://www.youtube.com/watch?v=z2lZKFq-c4g
+
+파생작들:
+
+야유로봇과 니엄멀의 저주 : https://www.youtube.com/watch?v=fXnWeG6rud8
+
+한국다람쥐와 깡의 저주 : https://www.youtube.com/watch?v=-5ShkizNL8I
+
+곽철용과 더블의 저주 : https://www.youtube.com/watch?v=uSLJq6jZFro
+
+이광수와 모기의 저주 : 이건 인기가 너무 높아 따로 글 작성.
+
+침착맨과 갈비의 저주 : https://www.youtube.com/watch?v=C9q0PlJpx7Y
