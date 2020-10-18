@@ -1,5 +1,5 @@
 ---
-title: "Mogi"
+title: "이광수와 모기의 저주"
 date: 2020-10-18T18:48:04+09:00
 categories: [meme]
 tags: []

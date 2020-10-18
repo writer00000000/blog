@@ -1,7 +1,7 @@
 ---
-title: "Zonglo"
+title: "종로스타"
 date: 2020-10-18T19:06:02+09:00
-categories: []
+categories: [meme]
 tags: []
 cover: "/images/infra/hugo.386k.png"
 ---
